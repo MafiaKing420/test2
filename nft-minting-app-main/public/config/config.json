@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x291345494a6f9DB092CFe335E376c01B631AF74b",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x291345494a6f9db092cfe335e376c01b631af74b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Mafia TEST",
+  "SYMBOL": "MTNFT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mafia-test-v2",
+  "SHOW_BACKGROUND": true
+}
